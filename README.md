@@ -42,3 +42,10 @@ Bem-vindo ao projeto de Agenda de Contatos, uma aplicação criada com base no p
 2. Instale as dependências usando `npm install`.
 3. Inicie o servidor de desenvolvimento usando `npm start`.
 4. Abra [http://localhost:3000](http://localhost:3000) para visualizá-lo no navegador.
+
+Telas
+
+![image](https://github.com/Kanashiro09/Agenda-de-contatos/assets/141968880/5673082f-6151-41f4-a336-852be7c51155)
+![image](https://github.com/Kanashiro09/Agenda-de-contatos/assets/141968880/3256ea58-23b9-4ad0-8df6-8c47b0e1a9db)
+
+
